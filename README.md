@@ -1,0 +1,1 @@
+Simple Math Game - Basic Calculations game with 60 seconds timer , which gives the complete score .
